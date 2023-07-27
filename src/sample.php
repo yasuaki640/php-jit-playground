@@ -1,6 +1,7 @@
 <?php
 
 $left = 1;
-$right = 2;
+$right = 22;
 $sum = $left + $right;
-echo $sum . "\n";
+
+echo "The Sum is" . $sum . "\n";
